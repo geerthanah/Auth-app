@@ -9,7 +9,7 @@ build/
 /backend/.env
 /frontend/.env/
 /backend/venv
-frontend/
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
